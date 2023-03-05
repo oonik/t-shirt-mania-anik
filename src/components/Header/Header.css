@@ -1,0 +1,11 @@
+.header a{
+  text-decoration: none;
+  margin-right: 20px;
+  font-weight: 700;
+  
+}
+.header{
+    margin-top: 20px;
+    background-color: beige;
+    padding: 20px;
+}

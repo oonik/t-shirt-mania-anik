@@ -32,6 +32,7 @@ const Home = () => {
             handleAddToCart={handleAddToCart}
             ></Tshirt>)
           }
+         
            </div>
          <div className="cart-container">
                 <Cart 
